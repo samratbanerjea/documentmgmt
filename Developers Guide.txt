@@ -1,0 +1,8 @@
+================================================================
+				DEVELOPERS GUIDE
+================================================================
+
+The Document Management System is a seamless way of managing all
+
+kinds of documents.
+				
